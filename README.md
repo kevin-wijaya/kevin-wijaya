@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevin-wijaya (Kevin Wijaya)
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently work on my personal website
 - 📫 Follow my instagram at @_kevinwijaya for find out more 
 
 <!---
