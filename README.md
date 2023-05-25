@@ -1,3 +1,33 @@
-# *Kevin Wijaya*
+# Hello World, I'm Kevin Wijaya
 
-<img style="height:50px; width:50px" src="https://raw.githubusercontent.com/spyder-ide/spyder/master/img_src/spyder.png">
+## Interest
+* CV
+* NLP
+* QML
+
+## Language
+* Python
+* PHP
+* C#
+* html
+* CSS
+* JS
+* TS
+
+## Technologies
+* Numpy 
+* Pandas
+* Tensorflow
+* scikit-learn
+* imbalanced-learn
+* Matplotlib, seaborn
+* CV
+* NLTK
+* Laravel
+
+## Tools
+* VSCODE 
+* COLAB
+* Spyder
+* VS2019
+* Android Studio
