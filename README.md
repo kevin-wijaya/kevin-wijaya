@@ -1,5 +1,44 @@
 ## Hello World, I'm Kevin Wijaya
 
+
+## Programming Language 
+<table><tbody>
+  <tr>
+      <td align="center"><b>Python</b></td>
+      <td align="center"><b>PHP</b></td>
+      <td align="center"><b>C#</b></td>
+      <td align="center"><b>HTML</b></td>
+      <td align="center"><b>CSS</b></td>
+      <td align="center"><b>JS</b></td>
+      <td align="center"><b>Kotlin</b></td>
+
+  </tr>
+  <tr>
+    <td align="center" height="100px">
+        <img alt='Python' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/56a002fe-41f8-4d4b-9d12-8101cc861e3a' height=55>
+    </td>
+    <td align="center" height="100px">
+        <img alt='PHP' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/c5cfa443-800b-412d-b6a5-9e09d696e197' height=55>
+    </td>
+    <td align="center" height="100px">
+        <img alt='C#' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/836dd0b2-a459-4793-88d6-ae9f8eb9a83a' height=95>
+    </td>
+    <td align="center" height="100px">
+        <img alt='HTML' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/58057a97-383b-4047-a211-ee1ede6885ae' height=55>
+    </td>
+    <td align="center" height="100px">
+        <img alt='CSS' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/f863ebe5-a20a-4d87-9d4f-ed84c06530a9' height=55>
+    </td>
+    <td align="center" height="100px">
+        <img alt='JS' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/70a8c66f-c49e-4142-85ee-500d1df71e12' height=55>
+    </td>
+    <td align="center" height="100px">
+        <img alt='Kotlin' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/6f330048-912b-407a-bc9b-f9ef5d37971e' height=55>
+    </td>
+  </tr>
+</tbody></table>
+
+
 ## Tools 
 <table><tbody>
   <tr>
