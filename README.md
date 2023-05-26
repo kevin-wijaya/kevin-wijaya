@@ -45,8 +45,8 @@
       <td align="center"><b>Pandas</b></td>
       <td align="center"><b>Matplotlib</b></td>
       <td align="center"><b>Seaborn</b></td>
-      <td align="center"><b>Scikit-Learn</b></td>
-      <td align="center"><b>Imbalanced-Learn</b></td>
+      <td align="center"><b>Scikit Learn</b></td>
+      <td align="center"><b>Imbalanced Learn</b></td>
       <td align="center"><b>Tensorflow</b></td>
       <td align="center"><b>OpenCV</b></td>
       <td align="center"><b>NLTK</b></td>
