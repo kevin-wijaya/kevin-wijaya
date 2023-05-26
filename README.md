@@ -1,4 +1,4 @@
-## Hello World, I'm Kevin Wijaya
+# Hello World, I'm Kevin Wijaya
 
 
 ## Programming Language 
@@ -34,6 +34,55 @@
     </td>
     <td align="center" height="80px">
         <img alt='Kotlin' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/6f330048-912b-407a-bc9b-f9ef5d37971e' height=48>
+    </td>
+  </tr>
+</tbody></table>
+
+## Technologies
+<table><tbody>
+  <tr>
+      <td align="center"><b>Numpy</b></td>
+      <td align="center"><b>Pandas</b></td>
+      <td align="center"><b>Matplotlib</b></td>
+      <td align="center"><b>Seaborn</b></td>
+      <td align="center"><b>Scikit-Learn</b></td>
+      <td align="center"><b>Imbalanced-Learn</b></td>
+      <td align="center"><b>Tensorflow</b></td>
+      <td align="center"><b>OpenCV</b></td>
+      <td align="center"><b>NLTK</b></td>
+      <td align="center"><b>Laravel</b></td>
+
+  </tr>
+  <tr>
+    <td align="center" height="80px">
+        <img alt='Numpy' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/689e03d1-fd55-42ba-aad9-ee74d0020f18' height=48>
+    </td>
+    <td align="center" height="80px">
+        <img alt='Pandas' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/d75789d4-7f3d-462e-bb17-0e711d077a63' height=48>
+    </td>
+    <td align="center" height="80px">
+        <img alt='Matplotlib' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/c02c85a5-b81e-45c2-b779-eb894e78a8ba' height=48>
+    </td>
+    <td align="center" height="80px">
+        <img alt='Seaborn' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/d27d4304-269e-473c-b97b-9e4d3e6ba15d' height=48>
+    </td>
+    <td align="center" height="80px">
+        <img alt='Scikit-Learn' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/8d98cd18-d2ec-485e-9ae0-16bc7c7d9556' height=48>
+    </td>
+    <td align="center" height="80px">
+        <img alt='Imbalanced-Learn' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/029480e0-003e-4391-859c-9f543f2fbd84' height=48>
+    </td>
+    <td align="center" height="80px">
+        <img alt='Tensorflow' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/7b8ccf10-dac0-4587-bb2f-2a223527376d' height=48>
+    </td>
+    <td align="center" height="80px">
+        <img alt='OpenCV' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/ce76c7bb-5611-4622-ad39-828385bdc082' height=48>
+    </td>
+    <td align="center" height="80px">
+        <img alt='NLTK' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/d3168840-5cf7-4a19-95be-37008bfa5186' height=48>
+    </td>
+    <td align="center" height="80px">
+        <img alt='Laravel' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/e9aadf92-a9ac-47d2-bfe1-a5cc959169b1' height=48>
     </td>
   </tr>
 </tbody></table>
