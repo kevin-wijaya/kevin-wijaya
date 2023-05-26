@@ -41,9 +41,9 @@
   </tr>
   <tr>
     <td align="center" height="80px"><img alt='Numpy' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/689e03d1-fd55-42ba-aad9-ee74d0020f18' height=38></td>
-    <td align="center" height="80px"><img alt='Pandas' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/d75789d4-7f3d-462e-bb17-0e711d077a63' height=38></td>
+    <td align="center" height="80px"><img alt='Pandas' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/5b958007-9101-4475-8064-88577463f578' height=38></td>
     <td align="center" height="80px"><img alt='Matplotlib' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/c02c85a5-b81e-45c2-b779-eb894e78a8ba' height=38></td>
-    <td align="center" height="80px"><img alt='Seaborn' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/d27d4304-269e-473c-b97b-9e4d3e6ba15d' height=38></td>
+    <td align="center" height="80px"><img alt='Seaborn' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/dce56af9-778d-4089-848f-c1cebee658e4' height=38></td>
     <td align="center" height="80px"><img alt='Scikit-Learn' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/8d98cd18-d2ec-485e-9ae0-16bc7c7d9556' height=38></td>
     <td align="center" height="80px"><img alt='Imbalanced-Learn' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/029480e0-003e-4391-859c-9f543f2fbd84' height=38></td>
     <td align="center" height="80px"><img alt='Tensorflow' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/7b8ccf10-dac0-4587-bb2f-2a223527376d' height=38></td>
@@ -71,7 +71,7 @@
       <td align="center" height="80px"><img alt='vscode' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/a31a983e-538e-455f-8ddd-a0f148cb5e9c' height=38></td>
       <td align="center" height="80px"><img alt='colab' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/0f4ecf31-cb6c-4b40-9b02-7cc73cc3a048' height=38></td>
       <td align="center" height="80px"><img alt='jupyter' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/b57893cb-0bf2-4857-a0ca-6ae1547aae79' height=38></td>
-      <td align="center" height="80px"><img alt='spyder' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/e83fbd19-a41f-4f1d-9144-871cf3e1a605' height=38></td>
+      <td align="center" height="80px"><img alt='spyder' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/8e10402b-e008-4417-929e-c58a5d08d568' height=38></td>
       <td align="center" height="80px"><img alt='vs' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/93483166-422c-45e2-a0d6-5f2d957f79ed' height=38></td>
       <td align="center" height="80px"><img alt='android-studio' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/cd14cf8b-e496-4f5e-bd94-51d89f4ace00' height=38></td>
       <td align="center" height="80px"><img alt='Minitab' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/20b84731-3ee1-43c2-99b2-b1dce4fa282a' height=38></td>
