@@ -1,11 +1,11 @@
-# Hello World, I'm Kevin Wijaya
+## Hello World, I'm Kevin Wijaya
 
-## Interest
+### Interest
 * CV
 * NLP
 * QML
 
-## Language
+### Language
 * Python
 * PHP
 * C#
@@ -14,7 +14,7 @@
 * JS
 * TS
 
-## Technologies
+### Technologies
 * Numpy 
 * Pandas
 * Tensorflow
@@ -25,7 +25,7 @@
 * NLTK
 * Laravel
 
-## Tools
+### Tools
 * VSCODE 
 * COLAB
 * Spyder
