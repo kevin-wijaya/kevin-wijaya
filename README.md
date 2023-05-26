@@ -95,7 +95,7 @@
       <td align="center"><b>Google Colab</b></td>
       <td align="center"><b>Jupyter Notebook</b></td>
       <td align="center"><b>Spyder</b></td>
-      <td align="center"><b>VS 2019</b></td>
+      <td align="center"><b>Visual Studio</b></td>
       <td align="center"><b>Android Studio</b></td>
       <td align="center"><b>Minitab</b></td>
       <td align="center"><b>PhpMyAdmin</b></td>
@@ -115,7 +115,7 @@
           <img alt='spyder' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/e83fbd19-a41f-4f1d-9144-871cf3e1a605' height=48>
       </td>
       <td align="center" height="80px">
-          <img alt='vs2019' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/93483166-422c-45e2-a0d6-5f2d957f79ed' height=48>
+          <img alt='vs' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/93483166-422c-45e2-a0d6-5f2d957f79ed' height=48>
       </td>
       <td align="center" height="80px">
           <img alt='android-studio' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/cd14cf8b-e496-4f5e-bd94-51d89f4ace00' height=48>
