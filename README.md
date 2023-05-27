@@ -1,5 +1,7 @@
 # Hello World, I'm Kevin Wijaya
 
+
+
 ## Programming Language 
 <table><tbody>
   <tr>
@@ -42,7 +44,7 @@
     <td align="center" height="80px"><img alt='Numpy' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/689e03d1-fd55-42ba-aad9-ee74d0020f18' height=38></td>
     <td align="center" height="80px"><img alt='Pandas' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/5b958007-9101-4475-8064-88577463f578' height=38></td>
     <td align="center" height="80px"><img alt='Matplotlib' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/c02c85a5-b81e-45c2-b779-eb894e78a8ba' height=38></td>
-    <td align="center" height="80px"><img alt='Seaborn' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/dce56af9-778d-4089-848f-c1cebee658e4' height=38></td>
+    <td align="center" height="80px"><img alt='Seaborn' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/dce56af9-778d-4089-848f-c1cebee658e4' height=48></td>
     <td align="center" height="80px"><img alt='Scikit-Learn' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/8d98cd18-d2ec-485e-9ae0-16bc7c7d9556' height=38></td>
     <td align="center" height="80px"><img alt='Imbalanced-Learn' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/029480e0-003e-4391-859c-9f543f2fbd84' height=38></td>
     <td align="center" height="80px"><img alt='Tensorflow' src='https://github.com/kevin-wijaya/kevin-wijaya/assets/102933264/7b8ccf10-dac0-4587-bb2f-2a223527376d' height=38></td>
