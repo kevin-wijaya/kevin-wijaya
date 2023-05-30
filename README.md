@@ -1,6 +1,8 @@
 # Hello World, I'm Kevin Wijaya
 
-## Technologies
+## Technologies Stack
+- Python
+- PHP
 - Numpy
 - Pandas
 - Matplotlib
