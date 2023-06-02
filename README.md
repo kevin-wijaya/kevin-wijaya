@@ -1,16 +1,3 @@
 # Hello World, I'm Kevin Wijaya
 
-## Technologies Stack
-- Python
-- PHP
-- Numpy
-- Pandas
-- Matplotlib
-- Seaborn
-- Scikit Learn
-- Tensorflow
-- OpenCV
-- Spacy
-- NLTK
-- Laravel
-- Angular
+[](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-wijaya&title_color=ffffff&layout=compact&hide=html&theme=highcontrast)
