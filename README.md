@@ -1,3 +1,3 @@
 # Hello World, I'm Kevin Wijaya
 
-[](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-wijaya&title_color=ffffff&layout=compact&hide=html&theme=highcontrast)
+![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kevin-wijaya&title_color=ffffff&layout=compact&hide=html&theme=highcontrast)
