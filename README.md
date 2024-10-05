@@ -1,3 +1,3 @@
-![home](https://github.com/kevin-wijaya/resources/raw/main/images/other/banner.png)
-# Hello, I'm Kevin Wijaya
-**Machine Learning** | **MLOps** | **Software Engineer**
+# Hello, Welcome to my GitHub Profile
+- My name is Kevin Wijaya
+- I am an Engineer
