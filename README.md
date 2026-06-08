@@ -1,5 +1,6 @@
 Hi Mates 👋, 
 I am **Kevin Wijaya** ( 楊百良 | Yang Bailiang)
+M.S. Student @ NYCU (National Yang Ming Chiao Tung University)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) 
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
