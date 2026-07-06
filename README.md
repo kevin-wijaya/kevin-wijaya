@@ -1,5 +1,5 @@
 Hi Mates 👋, 
-I am **Kevin Wijaya** ( 楊百良 | Yang Bailiang)
+I am **Kevin Wijaya** ( 楊百良 | Yang Bai liang)
 
 M.S. Student @ NYCU (National Yang Ming Chiao Tung University)
 
